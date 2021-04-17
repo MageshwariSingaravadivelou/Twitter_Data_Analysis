@@ -5,10 +5,10 @@ from tweepy import Stream
 
 
 #Variables that contains the user credentials to access Twitter API 
-consumer_key = "oqWfLQA5EH4YMIrBYa1HxfriT" # TWITTER_API_KEY
-consumer_secret = "HD0voPZPl6YNYsTMh7pKMvzsUItlqtaHuJYNkzLIYZbk39DuCB" # TWITTER_API_SECRET
-access_token = "1157237591906766848-D2157SfTIIy2J0gaN27Wa98WWpsZBz" # ACCESS_TOKEN
-access_token_secret = "5I4FwGwI72iZWTI9HHTChied5yzlebDptwbrCDQ7zbyM3" # ACCESS_SECRET_TOKEN
+consumer_key = "" # TWITTER_API_KEY
+consumer_secret = "" # TWITTER_API_SECRET
+access_token = "" # ACCESS_TOKEN
+access_token_secret = "" # ACCESS_SECRET_TOKEN
 
 
 #This is a basic listener that just prints received tweets to stdout.
