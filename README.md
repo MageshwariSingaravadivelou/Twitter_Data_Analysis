@@ -52,11 +52,4 @@ To run the code:
 python main.py '<keyword>'
 The above command will run the code.
 
-Code Flow:
-
-1. main.py gets the keyword as the input
-2. 
-3. 
-4. 
-5. 
 ```
