@@ -53,3 +53,7 @@ python main.py '<keyword>'
 The above command will run the code.
 
 ```
+###Reference
+https://developer.twitter.com/en/docs/labs/tweets-and-users/api-reference
+https://developer.twitter.com/en/docs/twitter-api/tweets/lookup/introduction
+https://developer.twitter.com/en/docs/twitter-api/users/lookup/introduction
